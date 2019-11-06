@@ -8,6 +8,8 @@
             person2 = person1;
             //person1.age = newPerson1Age;
 
+            var test = 1;
+
             return person2.age;
         }
     }
